@@ -8,7 +8,7 @@ export const Inicio = () => {
             <div className="mi_nicio animate__animated animate__pulse">
                 <div className="marco_inicio">
                     <div className="inicio_logo" >
-                        <span> Erasmo </span>
+                        <span> RESTAURANT </span>
                     </div>
                     <div className="inicio_menu">
                         <span> MENÚ </span>
